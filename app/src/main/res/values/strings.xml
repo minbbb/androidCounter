@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="action_about">About</string>
+    <string name="action_set_zero">Reset value</string>
+    <string name="button_decrease">-1</string>
+    <string name="text_about">Simple counter\nSource: https://github.com/minbbb/androidCounter</string>
+</resources>
